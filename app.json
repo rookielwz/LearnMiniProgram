@@ -2,9 +2,9 @@
   "pages": [
     "pages/home/home",
     "pages/category/category",
+    "pages/cart/cart",
     "pages/profile/profile",
-    "pages/cart/cart"
-    
+    "pages/detail/detail"
   ],
   "window": {
     "navigationBarBackgroundColor": "#ff5777",
